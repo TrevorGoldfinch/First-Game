@@ -34,9 +34,12 @@
   },
   "name":"First Game",
   "resources":[
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oWood","path":"objects/oWood/oWood.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sWood","path":"sprites/sWood/sWood.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
